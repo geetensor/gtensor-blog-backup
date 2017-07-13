@@ -42,3 +42,4 @@ $ hexo generate
 - See the [plugin list](https://hexo.io/plugins/) and the [theme list](https://hexo.io/themes/) on wiki
 - Follow [@hexojs](https://twitter.com/hexojs) for latest news
 - About search plugin [local-search-engine-for-hexo](http://hahack.com/codes/local-search-engine-for-hexo/)
+tt
