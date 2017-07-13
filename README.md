@@ -1,7 +1,7 @@
-# gtensor-new-blog
-This is a new version blog based hexo
+# gtensor-blog-backup
+This is the backup file of gtensor blog
 
-## Installation
+## Installation hexo
 
 ``` bash
 $ npm install hexo-cli -g
@@ -10,7 +10,8 @@ $ npm install hexo-cli -g
 ## run
 
 ``` bash
-$ cd gtensor-blog-src
+$ git clone *****
+$ cd gtensor-blog-backup
 $ npm install --save
 
 ```
